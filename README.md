@@ -1,2 +1,2 @@
-# projx
-ProjX website repository
+# ProjX 
+ProjX official open-source repository
